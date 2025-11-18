@@ -18,6 +18,18 @@
 
 <br/>  
 
+### Contatos
+## 📞 Contato
+
+<p align="center">
+  <a href="mailto:vinicius.edu.soliveira]@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <img src="https://img.shields.io/badge/Telefone-%2B55 (11) 91631-8317-blue?style=for-the-badge" alt="Telefone">
+</p>
+
+<br/>
 
 ## Minhas habilidades 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
