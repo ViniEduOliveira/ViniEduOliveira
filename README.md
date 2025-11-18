@@ -20,6 +20,7 @@
 
 ## 📞 Contatos
 **Gmail:** vinicius.edu.soliveira@gmail.com
+<br/>
 **Telefone:** (11) 91631-8317
 
 <br/>
