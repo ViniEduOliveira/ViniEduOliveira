@@ -19,14 +19,8 @@
 <br/>  
 
 ## 📞 Contatos
-
-<p align="center">
-  <a href="mailto:vinicius.edu.soliveira]@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  
-  <img src="https://img.shields.io/badge/Telefone-%2B55%2011%2091631-8317-blue?style=for-the-badge" alt="Telefone">
-</p>
+**Gmail:** vinicius.edu.soliveira@gmail.com
+**Telefone:** (11) 91631-8317
 
 <br/>
 
