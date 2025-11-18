@@ -1,10 +1,10 @@
 ### <div align="center">Sejam bem-vindos ao meu perfil 👋🏻</div>  
-  
+### <div align="center">Meu nome é Vinicius</div>  
 
 <div align="center">Conheça um pouco sobre mim  <hr></div>  
   
 
-#### Sou estudante iniciante na área de TI e faço bacharelado em Ciência da Computação na Universidade Braz Cubas em Mogi das Cruzes/SP. Sempre foi uma área chamou a minha atenção e hoje sou feliz por esta iniciante essa nova etapa na minha vida. Além do TI, sou técnico em Administração.  
+#### Sou estudante de Ciência da Computação na Universidade Braz Cubas
   
 
 - 🌱 Atualmente estou aprendendo Java e banco de dados  
