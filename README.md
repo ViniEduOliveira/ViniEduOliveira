@@ -4,13 +4,13 @@
 <div align="center">Conheça um pouco sobre mim  <hr></div>  
   
 
-#### Sou estudante de Ciência da Computação na Universidade Braz Cubas
+#### Sou estudante de Ciência da Computação na Universidade Braz Cubas e tenho curso técnico em Administração pela ETEC
   
 
-- 🌱 Atualmente estou aprendendo Java e banco de dados  
+- 🌱 Atualmente estou no 2º semestre da faculdade e faço curso online de Java
   
 
-- 🚀 Sempre em busca de novos conhecimentos  
+- 🚀 Sempre em busca de novos conhecimentos, oportunidades e  
   
 
 - ⚡Curiosidades: Sou apaixonado por esportes e tecnologia   
@@ -20,29 +20,11 @@
 
 
 ## Minhas habilidades 
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>  
-
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-
-</td></tr></table>  
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <br/>  
 
