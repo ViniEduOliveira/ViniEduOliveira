@@ -10,7 +10,7 @@
 - 🌱 Atualmente estou no 2º semestre da faculdade e faço curso online de Java
   
 
-- 🚀 Sempre em busca de novos conhecimentos, oportunidades e  
+- 🚀 Sempre em busca de novos conhecimentos e oportunidades
   
 
 - ⚡Curiosidades: Sou apaixonado por esportes e tecnologia   
