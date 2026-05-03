@@ -44,7 +44,7 @@ Sou estudante de **Ciência da Computação** na **Universidade Braz Cubas** e p
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://www.linkedin.com/in/vinicius-oliveira-0a2838294/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="www.linkedin.com/in/vinicius-eduardo-santos-de-oliveira-0a2838294" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/vinii__oliveiraa/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
