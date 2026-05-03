@@ -21,10 +21,24 @@ Sou estudante de **Ciência da Computação** na **Universidade Braz Cubas** e p
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Front-end:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 **Banco de Dados:**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniEduOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniEduOliveira&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</p>
 
 ---
 
