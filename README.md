@@ -1,52 +1,52 @@
-### <div align="center">Sejam bem-vindos ao meu perfil 👋🏻</div>  
-### <div align="center">Meu nome é Vinicius</div>  
+# Olá, eu sou o Vinicius! 👋
 
-<div align="center">Conheça um pouco sobre mim  <hr></div>  
-  
+Sou estudante de **Ciência da Computação** na **Universidade Braz Cubas** e possuo formação técnica em **Administração pela ETEC de Suzano**. Atualmente, foco meus estudos no desenvolvimento back-end e infraestrutura de TI.
 
-#### Sou estudante de Ciência da Computação na Universidade Braz Cubas e tenho curso técnico em Administração pela ETEC
-  
+### 🚀 Sobre mim
 
-- 🌱 Atualmente estou no 2º semestre da faculdade e faço curso online de Java
-  
+*   🌱 Atualmente cursando o **3º semestre** da faculdade.
+*   💻 Focado em aprender **Java** e lógica de programação voltada a objetos.
+*   ☁️ Participando do programa **Santander Academy** focado em **AWS Cloud Foundations**.
+*   ⚙️ Desenvolvendo projetos práticos, como sistemas de E-commerce integrados com **PostgreSQL**.
+*   🎯 Em busca da primeira oportunidade de estágio no setor de tecnologia.
 
-- 🚀 Sempre em busca de novos conhecimentos e oportunidades
-  
+---
 
-- ⚡Curiosidades: Sou apaixonado por esportes e tecnologia   
-  
+### 🛠️ Minhas habilidades
 
-<br/>  
+**Linguagens e Ferramentas:**
 
-## 📞 Contatos
-**Gmail:** vinicius.edu.soliveira@gmail.com
-<br/>
-**Telefone:** (11) 91631-8317
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+**Banco de Dados:**
 
-## Minhas habilidades 
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white)
 
-<br/>  
+---
 
+### 📊 Estatísticas do GitHub
 
-## Conecte-se comigo  
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniEduOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniEduOliveira&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</p>
+
+---
+
+### 🤝 Conecte-se comigo
+
 <div align="center">
-<a href="https://github.com/ViniEduOliveira" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/vinicius-oliveira-0a2838294/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/vinii__oliveiraa/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+  <a href="https://github.com/ViniEduOliveira" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-oliveira-0a2838294/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/vinii__oliveiraa/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</div>
