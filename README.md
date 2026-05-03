@@ -28,23 +28,14 @@ Sou estudante de **Ciência da Computação** na **Universidade Braz Cubas** e p
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniEduOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniEduOliveira&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-</p>
-
----
-
 ### 🤝 Conecte-se comigo
 
 <div align="center">
   <a href="https://github.com/ViniEduOliveira" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://www.linkedin.com/in/vinicius-oliveira-0a2838294/" target="_blank">
-    <img src="www.linkedin.com/in/vinicius-eduardo-santos-de-oliveira-0a2838294" alt="linkedin" />
+  <a href="www.linkedin.com/in/vinicius-eduardo-santos-de-oliveira-0a2838294" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/vinii__oliveiraa/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
